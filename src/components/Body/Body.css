@@ -1,0 +1,10 @@
+.body{
+    width: 1550px;
+    height: 100vh;
+    background-color: chartreuse;
+}
+
+.body > div > p > img {
+    width: 250px;
+    height: 250px;
+}
